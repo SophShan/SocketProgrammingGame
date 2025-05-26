@@ -1,23 +1,5 @@
 # Networked ASCII "Battle Game"
 
-## Compilation Steps (Python Version)
-
-1. Open `server.py` and `client.py`.
-2. Complete all **TODO** sections.
-3. **Run**:
-
-```shell
-# Server
-python server.py 12345
-
-# Client
-python client.py 127.0.0.1 12345
-```
-
-Where `12345` is your chosen port, and `127.0.0.1` is the server IP (local host).
-
----
-
 ## Quickstart Guide:
 
 - Make sure you have Python installed on your computer.
